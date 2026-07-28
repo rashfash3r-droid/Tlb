@@ -1,0 +1,21 @@
+# الملفات والمجلدات الحساسة
+/logs/
+/data/
+/akl/
+/edid/
+/amr/
+/sudo/
+/security_store/
+/ViSCo/
+*.log
+*.txt
+*.json
+!composer.json
+!package.json
+.env
+.env.local
+.env.*.local
+
+# ملفات النظام
+.DS_Store
+Thumbs.db

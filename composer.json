@@ -1,0 +1,11 @@
+{
+    "name": "telegram-bot/rachq",
+    "description": "Telegram bot for social media services",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "scripts": {
+        "start": "php -S 0.0.0.0:8000 index.php"
+    }
+}
