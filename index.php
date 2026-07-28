@@ -24,7 +24,7 @@ if (!defined('BOT_TOKEN')) {
 
 /** آيدي الأدمن الرئيسي (رقم) */
 if (!defined('BOT_ADMIN_ID')) {
-    define('BOT_ADMIN_ID', '7469685343');
+    define('BOT_ADMIN_ID', '5254495041');
 }
 
 /** معرف الدعم الفني */
