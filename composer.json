@@ -3,7 +3,7 @@
     "description": "Telegram bot for social media services",
     "type": "project",
     "require": {
-        "php": ">=7.4"
+        "php": "^8.2"
     },
     "scripts": {
         "start": "php -S 0.0.0.0:8000 index.php"
